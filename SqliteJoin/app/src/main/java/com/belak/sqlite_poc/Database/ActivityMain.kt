@@ -1,9 +1,9 @@
-package com.hellohasan.sqlite_project
+package com.belak.sqlite_poc.Database
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.hellohasan.sqlite_project.Database.DatabaseHelper
-import com.hellohasan.sqlite_project.Util.*
+import com.belak.sqlite_poc.Database.Util.*
+import com.hellohasan.sqlite_project.R
 import com.psa.bouser.mym.dao.OfferConnectedServiceDAO
 import kotlinx.android.synthetic.main.activity_main.*
 

@@ -1,4 +1,4 @@
-package com.hellohasan.sqlite_project.Database;
+package com.belak.sqlite_poc.Database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
@@ -6,11 +6,9 @@ import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-import com.hellohasan.sqlite_project.Util.CarConnectedServicesDAO;
-import com.hellohasan.sqlite_project.Util.Config;
-import com.hellohasan.sqlite_project.Util.OfferConnectedServiceBO;
-import com.hellohasan.sqlite_project.Util.PriceConnectedServiceBO;
-import com.hellohasan.sqlite_project.Util.PriceOfferConnectedServiceDAO;
+import com.belak.sqlite_poc.Database.Util.CarConnectedServicesDAO;
+import com.belak.sqlite_poc.Database.Util.Config;
+import com.belak.sqlite_poc.Database.Util.PriceOfferConnectedServiceDAO;
 import com.orhanobut.logger.AndroidLogAdapter;
 import com.orhanobut.logger.Logger;
 import com.psa.bouser.mym.dao.OfferConnectedServiceDAO;

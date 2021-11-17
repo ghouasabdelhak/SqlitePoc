@@ -4,9 +4,9 @@ import android.content.ContentValues
 import android.content.Context
 import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
-import com.hellohasan.sqlite_project.Util.AbstractDAO
-import com.hellohasan.sqlite_project.Util.CarConnectedServicesDAO
-import com.hellohasan.sqlite_project.Util.OfferConnectedServiceBO
+import com.belak.sqlite_poc.Database.Util.AbstractDAO
+import com.belak.sqlite_poc.Database.Util.CarConnectedServicesDAO
+import com.belak.sqlite_poc.Database.Util.OfferConnectedServiceBO
 
 /**
  * @author Abdelhak GHOUAS

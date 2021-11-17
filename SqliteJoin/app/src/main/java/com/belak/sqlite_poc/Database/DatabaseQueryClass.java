@@ -1,4 +1,4 @@
-package com.hellohasan.sqlite_project.Database;
+package com.belak.sqlite_poc.Database;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package com.hellohasan.sqlite_project.Util
+package com.belak.sqlite_poc.Database.Util
 
 import android.os.Parcel
 import android.os.Parcelable

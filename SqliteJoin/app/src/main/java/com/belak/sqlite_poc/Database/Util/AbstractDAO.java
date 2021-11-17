@@ -1,4 +1,4 @@
-package com.hellohasan.sqlite_project.Util;
+package com.belak.sqlite_poc.Database.Util;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteDatabase;
 
 import androidx.annotation.NonNull;
 
-import com.hellohasan.sqlite_project.Database.DatabaseHelper;
+import com.belak.sqlite_poc.Database.DatabaseHelper;
 
 
 /**
